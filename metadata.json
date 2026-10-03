@@ -1,0 +1,6 @@
+{
+  "name": "NeoPulse — Early-Warning ICU Telemetry System",
+  "description": "AI early-warning system for ICU patient deterioration utilizing GRU-D temporal attention, sampling-rate-as-signal, digital twin trajectory matching, and real-time clinical monitoring.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
